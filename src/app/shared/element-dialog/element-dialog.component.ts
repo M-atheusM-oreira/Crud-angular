@@ -1,6 +1,6 @@
 import { Component, OnInit, Inject } from '@angular/core';
 import { MatDialogRef, MAT_DIALOG_DATA} from '@angular/material/dialog';
-import { PeriodicElement } from 'src/app/views/home/home.component';
+import { PeriodicElement } from 'src/app/models/PeriodicElement';
 
 @Component({
   selector: 'app-element-dialog',
@@ -18,7 +18,7 @@ export class ElementDialogComponent implements OnInit {
 
 
   ngOnInit(): void {
-    if (this.data.position != null) {
+    if (this.data.id != null) {
       this.isChange = true;
     } else {
       this.isChange = false;

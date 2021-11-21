@@ -1,0 +1,88 @@
+{
+  "elements": [
+    {
+      "id": 2,
+      "name": "Helium",
+      "weight": 20.1797,
+      "symbol": "Ne"
+    },
+    {
+      "id": 3,
+      "name": "Lithium",
+      "weight": 20.1797,
+      "symbol": "Ne"
+    },
+    {
+      "id": 4,
+      "name": "Beryllium",
+      "weight": 20.1797,
+      "symbol": "Ne"
+    },
+    {
+      "id": 5,
+      "name": "Boron",
+      "weight": 20.1797,
+      "symbol": "Ne"
+    },
+    {
+      "id": 6,
+      "name": "Carbon",
+      "weight": 20.1797,
+      "symbol": "4Ne"
+    },
+    {
+      "id": 7,
+      "name": "Nitrogen",
+      "weight": 20.1797,
+      "symbol": "7Ne"
+    },
+    {
+      "posidition": 8,
+      "name": "Oxygen",
+      "weight": 20.1797,
+      "symbol": "Ne"
+    },
+    {
+      "id": 9,
+      "name": "Fluorine",
+      "weight": 20.1797,
+      "symbol": "5Ne"
+    },
+    {
+      "id": 10,
+      "name": "Lithium",
+      "weight": 20.1797,
+      "symbol": "Ne"
+    },
+    {
+      "id": 11,
+      "name": "Lithium",
+      "weight": 20.1797,
+      "symbol": "Ne4"
+    },
+    {
+      "id": 12,
+      "name": "Neon",
+      "weight": 20.1797,
+      "symbol": "N4e"
+    },
+    {
+      "id": 13,
+      "name": "Lithium",
+      "weight": 20.1797,
+      "symbol": "Ne"
+    },
+    {
+      "id": "14",
+      "name": "aa",
+      "weight": "53.45",
+      "symbol": "aa"
+    },
+    {
+      "id": "15",
+      "name": "aa",
+      "weight": "53.45",
+      "symbol": "aa"
+    }
+  ]
+}
